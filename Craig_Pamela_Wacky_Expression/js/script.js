@@ -7,4 +7,4 @@ var weight = 205
 var birthLocation = "Chicago"
 var towelCount = 9
 var travlerinformation = [age, height, weight,birthLocation, towelCount]
-console.log ("The array of information leads me to believe that your number is:" = travlerinformation);
+console.log ("The array of information leads me to believe that your number is\n:" = travlerinformation);
