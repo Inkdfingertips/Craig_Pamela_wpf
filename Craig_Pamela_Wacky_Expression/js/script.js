@@ -4,6 +4,6 @@
 var age = 27
 var height = 6.0
 var weight = 205
-var birthLocation = Chicago
+var birthLocation = "Chicago"
 var towelCount = 9
 var travlerinformation = [age, height, weight,birthLocation, towelCount]
