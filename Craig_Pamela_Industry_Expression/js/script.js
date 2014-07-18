@@ -8,4 +8,4 @@ var creditandDebitTotal =143.19;
 var totalmoney = (totalSafeDrops - beginningCount + endingCount) + (creditandDebitTotal);
 console.log (totalmoney)
 var mopSales = 560;
-var cashOverOrShort =(totalmoney - mopSales);
+var cashOverOrShort =(totalmoney - mopSales) + "This is what you are short or over";
