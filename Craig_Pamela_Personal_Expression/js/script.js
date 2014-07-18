@@ -2,6 +2,8 @@
 //WDD144-O sec 01 
 //Personal Expression//
 var personalCoffeCup = 3;
+var workCoffeeCup = 14
+
 var ouncesOfCoffee=28;
 var days = 6;
 var total = (coffeCup * ouncesOfCoffee * days);
