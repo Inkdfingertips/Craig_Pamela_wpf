@@ -2,7 +2,7 @@
 //WDD144-O sec 01 
 //Wacky Expression//
 var age = 21;
-var height = 6.0';
+var height = 6.0;
 var weight = 15;
 var birthLocation = "Nowhere";
 var towelCount = 300;
