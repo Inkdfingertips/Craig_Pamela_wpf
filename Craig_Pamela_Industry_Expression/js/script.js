@@ -5,5 +5,5 @@ var totalSafeDrops = 1000;
 var beginningCount = 119.19;
 var endingCount = 220.76;
 var creditandDebitTotal =504.45;
-var totalmoney = (totalSafeDrops - beginningCount + endingCount) + 
-(creditandDebitTotal)
+var totalmoney = (totalSafeDrops - beginningCount + endingCount) + (creditandDebitTotal);
+console.log (totalmoney)
