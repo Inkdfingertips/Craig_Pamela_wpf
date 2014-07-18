@@ -1,8 +1,8 @@
 //Pamela Craig WPF 
 //WDD144-O sec 01 
 //Wacky Expression//
-var age = 2;
-var height = 13.0;
+var age = 21;
+var height = 6;
 var weight = 15;
 var birthLocation = "Nowhere";
 var towelCount = 300;
