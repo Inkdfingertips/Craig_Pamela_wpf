@@ -4,7 +4,9 @@
 var personalCoffeCup = 3;
 var workCoffeeCup = 14
 var toGoCofeeCup = 5
-var ouncesOfCoffee=28;
+var ouncesOfCoffeeForpersdonal=28;
+var 
+var
 var days = 6;
 var total = (coffeCup * ouncesOfCoffee * days);
 console.log ("The total number of ounces you've drank this week is:\n" + total);
