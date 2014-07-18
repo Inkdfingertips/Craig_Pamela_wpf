@@ -6,3 +6,4 @@ var height =
 var weight =
 var birthLocation =
 var towelCount =
+var travlerinformation = [age, height, weight,birthLocation, towelCount]
