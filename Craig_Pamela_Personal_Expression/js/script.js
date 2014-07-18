@@ -5,3 +5,4 @@ var coffeCup = 3;
 var ouncesOfCoffee=28;
 var days = 6;
 var total = (coffeCup * ouncesOfCoffee * days);
+console.log
