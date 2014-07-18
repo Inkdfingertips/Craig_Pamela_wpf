@@ -7,5 +7,5 @@ var endingCount = 197.80;
 var creditandDebitTotal =143.19;
 var totalmoney = (totalSafeDrops - beginningCount + endingCount) + (creditandDebitTotal);
 var mopSales = 560;
-var cashOverOrShort =("This is what you are short or over" ) +  (totalmoney - mopSales);
+var cashOverOrShort =("This is what you are short or over \n" ) +  (totalmoney - mopSales);
 console.log (cashOverOrShort)
