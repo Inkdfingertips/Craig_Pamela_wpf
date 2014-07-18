@@ -1,12 +1,12 @@
 //Pamela Craig WPF 
 //WDD144-O sec 01 
 //Personal Expression//
-var personalCoffeCup = 3;
-var workCoffeeCup = 14
-var toGoCofeeCup = 5
-var ouncesOfCoffeeForpersdonal= 28;
-var ouncesOfCoffeeForWork = 64;
-var ouncesOfCoffeeForToGo = 12;
+var personalCoffeCup = 1;
+var workCoffeeCup = 2;
+var toGoCofeeCup = 2
+var ouncesOfCoffeeForpersdonal= 16;
+var ouncesOfCoffeeForWork = 32;
+var ouncesOfCoffeeForToGo = 24;
 var days = 6;
 var cupTotal = (personalCoffeCup + workCoffeeCup + toGoCofeeCup);
 var ounceTotal = (ouncesOfCoffeeForpersdonal + ouncesOfCoffeeForWork + ouncesOfCoffeeForToGo);
