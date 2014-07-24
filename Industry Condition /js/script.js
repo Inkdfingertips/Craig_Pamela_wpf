@@ -8,9 +8,12 @@ var loopCounter = 0;
 while (loopCounter < 5)
 //we only have four numbers for the customer to play at a time. Ths is less than five
 {var test = 0;
+	//var used for testing array vs lotteryNumber
 if (lotteryNumber == todaysNumbers [test]) {
 	console.log ("Early Retirement ahead!")
-}
-else {test++}
+} //if lottery number and todays number are the same you win.
+else {console.log ("Sorry Not this time.") 
+	test++}
+//If not buy another ticket
 loopCounter++;}
 //This counts up the loop
