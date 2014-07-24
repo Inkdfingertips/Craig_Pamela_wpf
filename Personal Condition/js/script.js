@@ -7,5 +7,5 @@ if (paycheck < fallOutBoyConcert || borrowedFromMom){
 	console.log ("Have fun being in Death Valley");
 } else{
 
-	console.log ("Enjoy Vagas Lights at the Panic Concert");
+	console.log ("Enjoy Vegas Lights at the Panic Concert");
 }
