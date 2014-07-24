@@ -1,3 +1,7 @@
+//Pamela Craig, 
+//7/24/14
+//Industry Conditional
+
 var lotteryNumber = prompt("Please enter a number between 1 and 100"); 
 //this is a fixed lottery lotteryNumber
 todaysNumbers = [Math.floor (Math.random()*100) +1,Math.floor (Math.random()*100) +1, Math.floor (Math.random()*100) +1, Math.floor (Math.random()*100) +1];
