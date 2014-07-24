@@ -2,7 +2,7 @@ var lotteryNumber = 72;
 //this is a fixed lottery lotteryNumber
 todaysNumbers = [Math.floor (Math.random()*100) +1,Math.floor (Math.random()*100) +1, Math.floor (Math.random()*100) +1, Math.floor (Math.random()*100) +1];
 //This generates a random number, if 72 hits you win.
-Console.log ("Your Numbers Are:" + todaysNumbers);
+console.log ("Your Numbers Are:" + todaysNumbers);
 var loopCounter = 0;
 //this is where the loop starts
 while (loopCounter < 5)
