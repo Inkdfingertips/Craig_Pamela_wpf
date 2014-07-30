@@ -1,18 +1,20 @@
 var sentence = prompt("Please type a funny sentence.");
-var length1= sentence.length();
+var lengthOfSentence= sentence.length();
 var digit = 1;
 var character = sentence.charAt(digit);
 
-while (sentence === ""){
-sentence = prompt("Please type a funny sentence.");
-}
-while (digit<length1){
-	console.log(sentence.charAt(digit) + " ");
-	digit=digit+2;
-}
+//while (sentence === ""){
+//sentence = prompt("No seriously, type a funny sentence.");
+//}
+
+//while (digit<lengthOfSentence){
+//	console.log(sentence.charAt(digit) + " ");
+//	digit=digit+2;
+//}
+
 console.log(" ");
 var letter=0;
-while (letter<length1){
+while (letter<lengthOfSentence){
 	if (sentence.charAt(letter)=="a") {Console.log("_");}
 	else if (sentence.charAt(letter)=="e") {Console.log("_");}
 	else if (sentence.charAt(letter)=="i") {Console.log("_");}
@@ -21,9 +23,10 @@ while (letter<length1){
 	else {Console.log(sentence.chatAt(letter));}
 	letter++;
 }
+
 letter=0;
 Console.log(" ");
-while (letter<length1) {
+while (letter<lengthOfSentence) {
 	if (sentence.charAt(letter) == "t") {Console.log("x");}
 	else {Console.log(sentence.charAt(letter)); 
 } 
