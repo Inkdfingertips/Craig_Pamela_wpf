@@ -1,5 +1,10 @@
 var period = prompt("On a scale from 1 to 10 how heavy is your period today?");
-//prompts user on the smount of flow they are experiancing 
+//prompts user on the amount of flow they are experiancing 
+
+/* while (period == " "){
+	//re-prompt user
+	"On a scale from 1 to 10 how heavy is your period today?");
+}*/
 
 if (period == 1 || 2 || 3 ){
 	console.log ("You need a light tampon and a good book");
