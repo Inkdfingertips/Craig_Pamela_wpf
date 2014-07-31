@@ -1,3 +1,7 @@
+//Pamela Craig
+//7/30/14
+//Personal Function 
+
 var period = prompt("On a scale from 1 to 10 how heavy is your period today?");
 //prompts user on the amount of flow they are experiancing 
 

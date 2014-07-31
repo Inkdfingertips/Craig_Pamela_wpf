@@ -1,3 +1,6 @@
+//Pamela Craig
+//7/30/14
+//Wacky Function  
 var partyCannon = prompt("How many guests (in tens between 10 and 50) will be at your party?"); 
 
 while (partyCannon == " ") {

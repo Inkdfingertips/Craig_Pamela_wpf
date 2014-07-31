@@ -1,3 +1,6 @@
+//Pamela Craig
+//7/30/14
+//Industry Funtion
 var change = prompt ("Please enter the change due to the customer.");
 //This prompts user to enter the change that is due to the customer
 var quarters = change/25;
